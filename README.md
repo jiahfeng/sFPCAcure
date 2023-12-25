@@ -18,7 +18,7 @@ The repository includes the following files:
 
 ## Contact
 
-Jiahui Feng  <<jhfeng731\@gmail.com>>
+Jiahui Feng  <<jhfeng731@gmail.com>>
 
 ## Reference
 
