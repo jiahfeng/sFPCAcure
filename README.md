@@ -4,7 +4,7 @@ Simulation code of implementing supervised functional principal component analys
 
 The repository includes the following files:
 
-`fun.R`: The R source code for fitting the sFPCA for imaging data, which contains the following key functions.
+`fun.R`: The R source code for fitting the sFPCA for imaging data, which contains the following key function:
 
 `sfpca_img = function(type = "bernstein", Y , train_dat.id, theta, lambda, npc, V.est, Tr.est, d.est, r, Z, ncr, tau)`
 
